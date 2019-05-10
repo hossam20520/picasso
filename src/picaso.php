@@ -1,5 +1,5 @@
 <?php
-namespace picasso50\picaso;
+namespace picasso50\picasso50;
 class picaso{
 
 public function testa(){

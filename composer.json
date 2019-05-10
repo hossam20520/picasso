@@ -11,7 +11,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "picasso50\\":"src/"
+            "picasso50\\picasso50\\":"./src"
         }
     }
 }
