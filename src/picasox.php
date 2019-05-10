@@ -1,6 +1,6 @@
 <?php
-namespace picasso50\picasso50;
-class picaso{
+namespace picasso50\picaso;
+class picasox{
 
 public function testa(){
 echo "hello world";
