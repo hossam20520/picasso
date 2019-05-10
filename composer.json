@@ -1,0 +1,17 @@
+{
+    "name": "picasso50/picasso50",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hossam hassan",
+            "email": "hossamhassan889@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "picasso50\\":"src/"
+        }
+    }
+}
